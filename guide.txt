@@ -38,3 +38,5 @@ defmodule Alch do
     File.read(filename)
   end
 end
+Understanding Maps | Zero to Hero in Elixir #5
+Understanding Pattern Matching | Zero to Hero in Elixir #6
